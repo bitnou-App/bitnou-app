@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "U4D28CFG6G.com.devprotocols.bitnou",
+        "paths": [
+          "*",
+          "NOT /reset-password/*"
+        ]
+      }
+    ]
+  }
+}
